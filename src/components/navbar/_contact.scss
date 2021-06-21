@@ -1,0 +1,22 @@
+.contact{
+  box-sizing: border-box;
+  position: absolute;
+  left: 75%;
+  top: 0.46em;
+  margin-left: 15px;
+}
+
+.contact img{
+  margin:0px;
+  padding: 3px;
+  max-width: 29.3%;
+  height: auto;
+  box-shadow: 0 0 0.3125em 0px #3FD480;
+  border-radius: 1.5625em;
+
+  &:hover{
+    box-shadow: 0 0 0.5125em 0px #3FD480;
+    border-radius: 1.5625em;
+    cursor: pointer;
+  }
+}

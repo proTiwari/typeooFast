@@ -1,0 +1,56 @@
+.box{
+  position: absolute;
+  height: 250px;
+  width: 70%;
+  left: 40%;
+  right: 50%;
+  top:13.3em;
+  border-radius: 12px;
+  box-sizing: border-box;
+  box-shadow: 0 0 8px 0px #67C43F;
+  transform: translate(-50%,-50%);
+}
+
+
+.input{
+  position: relative;
+  font-size: 18px;
+  font-family: fantasy;
+  text-decoration: none;
+  overflow: hidden;
+  box-sizing: border-box;
+  box-shadow: 0 0 0px 2px transparent;
+  opacity: 0.3;
+  border-radius: 6px;
+  width:94%;
+  height: 220px;
+  resize:none;
+  left: 50%;
+  right: 50%;
+  top:117px;
+  transform: translate(-50%,-50%);
+  outline: none;
+  border:none;
+}
+
+.input1{
+
+  position: absolute;
+  font-size: 18px;
+  font-family: fantasy;
+  text-decoration: none;
+  overflow: hidden;
+  box-sizing: border-box;
+  box-shadow: 0 0 0px 2px transparent;
+  opacity: 0.3;
+  border-radius: 6px;
+  width:94%;
+  height: 220px;
+  resize:none;
+  left: 50%;
+  right: 50%;
+  top:117px;
+  transform: translate(-50%,-50%);
+  outline: none;
+  border:none;
+}

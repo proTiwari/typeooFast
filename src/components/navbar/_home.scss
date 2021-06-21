@@ -1,0 +1,20 @@
+.home{
+  box-sizing: border-box;
+  position: absolute;
+  left: 70%;
+  top: 0.46em;
+
+}
+
+.home img{
+  max-width: 50%;
+  height: auto;
+  box-shadow: 0 0 0.3125em 0px #3FD480;
+  border-radius: 1.5625em;
+
+  &:hover{
+    box-shadow: 0 0 0.5125em 0px #3FD480;
+    border-radius: 1.5625em;
+    cursor: pointer;
+  }
+}

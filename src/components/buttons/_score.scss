@@ -1,0 +1,22 @@
+.score{
+  position: absolute;
+  height: 46px;
+  width:18%;
+  top:5.47em;
+  right:5%;
+  background: linear-gradient(#E4F21B,#67C43F);
+  border-radius: 10px;
+  box-shadow: 0 0 0px 0px transparent;
+  word-wrap: break-word;
+}
+
+.score h5{
+  font-family:monospace;
+  font-size: 1em;
+  position: relative;
+  left:50%;
+  right:50%;
+  margin-left: 9px;
+  transform: translate(-35%,-50%);
+  top:0px;
+}

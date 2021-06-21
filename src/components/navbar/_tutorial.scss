@@ -1,0 +1,31 @@
+.tutorial{
+  display: inline;
+  position:absolute;
+  left:auto;
+  right:0;
+  margin-right:9px;
+  top:0.46em;
+  height:36px;
+  width: 100px;
+  box-sizing: border-box;
+  box-shadow: 0 0 5px 1px none;
+  background: linear-gradient(#E4F21B, #67C43F);
+  border-radius: 25px;
+  &:hover{
+    opacity: 0.8;
+    cursor: pointer;
+  }
+}
+
+.tutorial h5{
+  position: absolute;
+  padding-left:10px;
+  top: 0.86em;
+  margin:0;
+}
+
+.tutorial img{
+  max-width: 32%;
+  float: right;
+  margin:3px;
+}
